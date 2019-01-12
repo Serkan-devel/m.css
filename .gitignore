@@ -3,3 +3,8 @@ htmlcov/
 coverage/
 .coverage
 *.kdev4
+*.egg-info/
+sphinx-theme/build/
+sphinx-theme/dist/
+sphinx-theme/docs/_build
+*.py[cod]
